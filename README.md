@@ -43,10 +43,6 @@ Contributions are welcome! If you have any ideas for improvements or new feature
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-If you have any questions or need further assistance, feel free to open an issue in the repository or contact the project maintainer at [mangadivine.in@gmail.com](mailto:mangadivine.in@gmail.com).
-
 ## Run Link
 
 You can view the project live at the following link:
