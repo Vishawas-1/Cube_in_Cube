@@ -13,10 +13,10 @@ html {
 
 body {
     width: 100vw;
-    height: 95vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     gap: 9px;
 }
@@ -35,7 +35,7 @@ body {
 .cube {
     position: relative;
     margin: 0px auto;
-    margin-top: 25%;
+    margin-top: 0;
         width: 200px;
     height: 200px;
     transform: rotateX(-30deg) rotateY(-80deg);
