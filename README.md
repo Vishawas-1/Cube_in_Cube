@@ -50,4 +50,4 @@ If you have any questions or need further assistance, feel free to open an issue
 ## Run Link
 
 You can view the project live at the following link:
-[3D Cube In Cube](https://vishawas058.github.io/3D-Cube-In-Cube/)
+[3D Cube In Cube](https://vishawas-1.github.io/Cube_in_Cube/)
